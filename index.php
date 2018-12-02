@@ -272,7 +272,6 @@
 						</div>
 					</div>
 				</div>
-
 				<!-- Contact Form -->
 				<div class="col-lg-6">
 					<div class="contact_form">
@@ -375,7 +374,6 @@
 	<!-- Modal Committee member profile-->
 	<div class="modal fade" id="committee_member" role="dialog">
 	    <div class="modal-dialog">
-
 	    <!-- Modal content-->
 		    <div class="modal-content modal_content">
 		        <div class="modal-header">
